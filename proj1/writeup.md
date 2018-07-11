@@ -13,8 +13,6 @@ The goals / steps of this project are the following:
 
 ---
 
-### Reflection
-
 ### 1. The Pipeline ###
 
 My pipeline consisted of the following steps:
