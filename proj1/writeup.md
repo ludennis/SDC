@@ -22,7 +22,7 @@ My pipeline consisted of the following steps:
 4. finding lines using hough lines 
 5. connecting all the lines with average slope and average intercept
 
-### 2. The "extrapolate_lines()" function (my own "draw_lines()" function)###
+### 2. The "extrapolate_lines()" function (my own "draw_lines()" function) ###
 
 The extrapolate_lines() function takes in the following as inputs:
 1. image
